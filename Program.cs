@@ -42,8 +42,7 @@ namespace WindowsOptimizer
             // System File Checker (SFC)
             ExecuteCommand("sfc /scannow", "Running System File Checker...");
 
-            // Check Disk (CHKDSK)
-            ExecuteCommand("chkdsk /f", "Running Check Disk...");
+         
 
             // Scan drivers
             Console.WriteLine("Skenovanie ovládačov...");
