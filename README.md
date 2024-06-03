@@ -24,3 +24,6 @@ This software is not affiliated with Microsoft or Windows. The author and contri
 - Make sure to backup important data before running the optimization process.
 - Some commands may take a few minutes to complete depending on system specifications and disk size.
 - For any issues or suggestions, please open an issue on the GitHub repository.
+
+### Coming Soon:
+- Windows 11 support is coming soon!
